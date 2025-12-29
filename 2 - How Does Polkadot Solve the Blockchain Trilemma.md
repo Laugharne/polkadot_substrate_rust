@@ -1,4 +1,6 @@
-**Polkadot’s Architecture Explained: Relay Chains to Parachains #2 | Polkadot: Substrate & Rust - Video Highlights**
+**Polkadot’s Architecture Explained: Relay Chains to Parachains #2 | Polkadot: Substrate & Rust**
+
+📺 [Watch the full video](https://youtu.be/9Ge5xPBO7v4)
 
 # [00:00](https://youtu.be/9Ge5xPBO7v4?t=0)  Polkadot's Architecture and Shared Security Model
 ## Overview of Polkadot's Structure
@@ -27,6 +29,4 @@
 - [05:22](https://youtu.be/9Ge5xPBO7v4?t=322)  It embodies an ethos of "move fast and break things," facilitating innovation through accelerated governance processes.
 
 ---
-
-📺 [Watch the full video](https://youtu.be/9Ge5xPBO7v4)
 

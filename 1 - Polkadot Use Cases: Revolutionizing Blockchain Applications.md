@@ -1,4 +1,6 @@
-**Polkadot Use Cases: Revolutionizing Blockchain Applications #3 | Polkadot: Substrate & Rust - Video Highlights**
+**Polkadot Use Cases: Revolutionizing Blockchain Applications #3 | Polkadot: Substrate & Rust**
+
+📺 [Watch the full video](https://youtu.be/A3PrSDZ5YZw)
 
 # [00:00](https://youtu.be/A3PrSDZ5YZw?t=0)  Use Cases of Parachains in the Polkadot Network
 ## Overview of Parachains and Their Unique Features
@@ -12,6 +14,4 @@
 - [01:30](https://youtu.be/A3PrSDZ5YZw?t=90)  Kilt focuses on issuing credentials for verifiable digital IDs while also initiating standards for decentralized IDs.
 
 ---
-
-📺 [Watch the full video](https://youtu.be/A3PrSDZ5YZw)
 
