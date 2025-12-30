@@ -16,4 +16,9 @@
 10. How to Set Up a Substrate Node and Front-End Template
 11. How to Simulate a Substrate Node Network Locally
 12. Substrate Nodes: Setting Up a Secure Private Network
+13. How to Authorize Nodes in Substrate: Step-by-Step Guide
+14. How to Monitor Substrate Nodes: A Complete Guide
+15. Forkless Runtime Upgrades with Substrate: A Step-by-Step Guide
+
+
 
