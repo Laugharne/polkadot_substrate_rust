@@ -13,12 +13,15 @@
 7. [Understanding Substrate Nodes: Full, Archive & Light Clients](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/7%20-%20Understanding%20Substrate%20Nodes%3A%20Full%2C%20Archive%20%26%20Light%20Clients%20.md)
 8. [From State Transitions to XCM: Inside Substrate](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/8%20-%20From%20State%20Transitions%20to%20XCM%3A%20Inside%20Substrate.md)
 9. [Complete Guide to Installing Rust for Substrate](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/9%20-%20Complete%20Guide%20to%20Installing%20Rust%20for%20Substrate.md)
-10. How to Set Up a Substrate Node and Front-End Template
+10. [How to Set Up a Substrate Node and Front-End Template](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/10%20-%20How%20to%20Set%20Up%20a%20Substrate%20Node%20and%20Front-End%20Template.md)
 11. How to Simulate a Substrate Node Network Locally
 12. Substrate Nodes: Setting Up a Secure Private Network
 13. How to Authorize Nodes in Substrate: Step-by-Step Guide
 14. How to Monitor Substrate Nodes: A Complete Guide
 15. Forkless Runtime Upgrades with Substrate: A Step-by-Step Guide
+16. Advanced Substrate Development: Custom Pallet Tutorial
+17. Create Blockchain Apps with Substrate Smart Contracts
+18. Relay Chain Setup for Blockchain Developers Substrate Guide
 
 
 
