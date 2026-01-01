@@ -14,14 +14,14 @@
 8. [From State Transitions to XCM: Inside Substrate](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/8%20-%20From%20State%20Transitions%20to%20XCM%3A%20Inside%20Substrate.md)
 9. [Complete Guide to Installing Rust for Substrate](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/9%20-%20Complete%20Guide%20to%20Installing%20Rust%20for%20Substrate.md)
 10. [How to Set Up a Substrate Node and Front-End Template](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/10%20-%20How%20to%20Set%20Up%20a%20Substrate%20Node%20and%20Front-End%20Template.md)
-11. How to Simulate a Substrate Node Network Locally
-12. Substrate Nodes: Setting Up a Secure Private Network
-13. How to Authorize Nodes in Substrate: Step-by-Step Guide
-14. How to Monitor Substrate Nodes: A Complete Guide
-15. Forkless Runtime Upgrades with Substrate: A Step-by-Step Guide
-16. Advanced Substrate Development: Custom Pallet Tutorial
-17. Create Blockchain Apps with Substrate Smart Contracts
-18. Relay Chain Setup for Blockchain Developers Substrate Guide
+11. How to Simulate a Substrate Node Network Locally [polkadot_substrate_rust/chapters/11 - How to Simulate a Substrate Node Network Locally.md at main · Laugharne/polkadot_substrate_rust · GitHub](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/11%20-%20How%20to%20Simulate%20a%20Substrate%20Node%20Network%20Locally.md)
+12. [Substrate Nodes: Setting Up a Secure Private Network](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/12%20-%20Substrate%20Nodes%3A%20Setting%20Up%20a%20Secure%20Private%20Network.md)
+13. [How to Authorize Nodes in Substrate: Step-by-Step Guide](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/13%20-%20How%20to%20Authorize%20Nodes%20in%20Substrate%3A%20Step-by-Step%20Guide.md)
+14. [How to Monitor Substrate Nodes: A Complete Guide](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/14%20-%20How%20to%20Monitor%20Substrate%20Nodes.md)
+15. [Forkless Runtime Upgrades with Substrate: A Step-by-Step Guide](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/15%20-%20Forkless%20Runtime%20Upgrades%20with%20Substrate%3A%20A%20Step-by-Step%20Guide.md)
+16. [Advanced Substrate Development: Custom Pallet Tutorial](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/16%20-%20Advanced%20Substrate%20Development%3A%20Custom%20Pallet%20Tutorial.md)
+17. [Create Blockchain Apps with Substrate Smart Contracts](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/17%20-%20Create%20Blockchain%20Apps%20with%20Substrate%20Smart%20Contracts.md)
+18. [Relay Chain Setup for Blockchain Developers Substrate Guide](https://github.com/Laugharne/polkadot_substrate_rust/blob/main/chapters/18%20-%20Relay%20Chain%20Setup%20for%20Blockchain%20Developers%20Substrate%20Guide.md)
 
 
 
